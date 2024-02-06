@@ -31,4 +31,4 @@ You'll know if you've succeeded because the tests will pass.
 
 Alias: `npm run e`
 
-Open a prompt for choosing which exercise you'd like to run.
+Opens a prompt for choosing which exercise you'd like to run.
